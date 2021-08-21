@@ -1,0 +1,2 @@
+# contract
+Baby Fox Token
